@@ -1,0 +1,5 @@
+INSERT INTO `dede_addonarticle` VALUES('1','1','测试测试。。。。测试测试。。。。','','','127.0.0.1');
+INSERT INTO `dede_addonarticle` VALUES('2','1','需要购买的联系QQ45485397','','','127.0.0.1');
+INSERT INTO `dede_addonarticle` VALUES('3','2','<div style=\"text-align: center\">\r\n	<img alt=\"\" src=\"/uploads/allimg/120714/1-120G40A941W1.jpg\" /><br />\r\n	本资源由源码库首发提供 <a href=\"http://www.cnymk.com\">www.cnymk.com</a></div>\r\n','','','127.0.0.1');
+INSERT INTO `dede_addonarticle` VALUES('4','4','<img alt=\"\" src=\"/uploads/allimg/120714/1-120G40F554Q7.jpg\" /><br />\r\n<br />\r\n本资源由源码库首发提供 <a href=\"http://www.cnymk.com\">www.cnymk.com</a>','','','127.0.0.1');
+INSERT INTO `dede_addonarticle` VALUES('5','4','<img alt=\"\" src=\"/uploads/allimg/120714/1-120G40F62GR.jpg\" /><br />\r\n<br />\r\n本资源由源码库首发提供 <a href=\"http://www.cnymk.com\">www.cnymk.com</a>','','','127.0.0.1');
